@@ -6,7 +6,7 @@
 ##  About Me:
 - **What I Do:** Head of Software & Vice Captain for the Octobots FIRST Robotics Competition Team. 
 - **Current Focus:** Developing complex robot control systems, autonomous pathing, and real-time Linux automation.
-- **Learning & Academics:** Taking AP Computer Science/Physics and Dual Enrollment CS courses at Dos Pueblos High.
+- **Learning & Academics:** Took AP Computer Science/Physics and Dual Enrollment CS courses at the Santa Barbara City College/
 - **Achievement:** Top 7% worldwide rank in FRC, World Championships qualifier, and Winner of the UCSB ICTF High School competition.
 - Ask me about: **State machines, brushless motor integration, or CAD design.**
 - Fun fact: **I am the Vice President of my school's climbing club!**
